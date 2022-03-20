@@ -11,11 +11,7 @@
 ### Additional Documents:
 - link to my repo: https://github.com/paulwon2223/Quiz-Generator-Final-PW
 - link to my git page: https://paulwon2223.github.io/Quiz-Generator-Final-PW/
-- screen shot of repo:
-![img](./img/reposs.png)
-- screen shot of pages:
-![img](./img/pages.png)
-- screen shot of quiz generator page:
+- screen shot of quiz generator:
 ![img](./img/main.png)
-- screen shot of result page:
+- screen shot of quiz generator results:
 ![img](./img/results.png)
